@@ -1,0 +1,1 @@
+python ronin_resnet.py --mode test   --out_dir C:\Users\qiuchao.DESKTOP-MEE38AN\Desktop\1214测试路线\lsh\shouchi_500  --model_path  C:\Users\qiuchao.DESKTOP-MEE38AN\Desktop\模型\shouchi_1213\shouchi_1213_500.pt   --test_list C:\Users\qiuchao.DESKTOP-MEE38AN\Desktop\1214测试路线\lsh\synced\shouchi\LIST.TXT  --root_dir C:\Users\qiuchao.DESKTOP-MEE38AN\Desktop\1214测试路线\lsh\synced\shouchi
